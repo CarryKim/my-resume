@@ -1,14 +1,15 @@
 ---
-pagetitle: 'References - Daniel S. Marshall'
-author: 'Daniel S. Marshall'
-date: 2017-01-01
+pagetitle: 'References - Minji Kim'
+author: 'Minji Kim'
+date: 2018-10-16
 ---
 
-# Daniel S. Marshall
+# Minji Kim
 ## Your Info {.heading .hide}
-Oakville, Ontario\
-905 849 0586\
-daniel.marshall@gmail.com\
+Seoul, South Korea\
+010 2362 6659\
+minjikim1126@hotmail.com
+carrykim1126@gmail.com
 
 ## Professional References {.divider}
 

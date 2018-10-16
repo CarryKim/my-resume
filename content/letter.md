@@ -1,14 +1,15 @@
 ---
 pagetitle: 'Cover Letter - My Name'
-author: 'My Name'
-date: 2017-01-01
+author: 'Minji Kim'
+date: 2018-10-16
 ---
 
 # My Name
 ## Your Info {.heading-you .hide}
-Oakville, Ontario\
-905 849 0586\
-daniel.marshall@gmail.com
+Seoul, South Korea\
+010 2362 6659\
+minjikim1126@hotmail.com
+carrykim1126@gmail.com
 
 ## {.divider}
 
